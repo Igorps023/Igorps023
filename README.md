@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Igorps023
 - 👀 I’m interested in Python, Tech and Economic Development
-- 🌱 I’m currently learning: Statistics, Python and R.
+- 🌱 I’m currently learning: Cloud Computing and Python.
 - 📫 How to reach me: https://www.linkedin.com/in/igorsilvamspd/
 - 📫 Blog: https://medium.com/@igorps023
 
